@@ -1,3 +1,3 @@
 # Pandas-Challenge
 
-Christie Barron (regex snippet) line (Scores by School Spending) sunsection
+Christie Barron (regex snippet) line (Scores by School Spending) subsection
